@@ -1,0 +1,2 @@
+# SyzygyDecoded
+Syzygy Global Decoded.
