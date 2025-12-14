@@ -1,2 +1,1 @@
-# SyzygyDecoded
-Syzygy Global Decoded.
+# https://syzygy-decoded.my.canva.site
